@@ -4,6 +4,8 @@
 
 插件负责校验已导入的本地密码，账号迁移和 LDAP 关联处理需另行完成。
 
+已编译插件：[下载 JAR](dist/ldap-ssha-migration-provider-0.1.0-SNAPSHOT.jar)。
+
 使用 JDK 21 和 Maven 构建：
 
 ```sh
